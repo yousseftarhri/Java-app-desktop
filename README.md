@@ -1,2 +1,2 @@
 # MiniProjet
-Java application GUI -Gestion de super march
+Java application GUI -Gestion de super marche
